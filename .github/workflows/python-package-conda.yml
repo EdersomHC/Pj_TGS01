@@ -27,6 +27,6 @@ jobs:
 
     - name: Rodar testes
       run: |
-        python comissao.py
+        python vendas.py
         python estoque.py
         python juros.py
